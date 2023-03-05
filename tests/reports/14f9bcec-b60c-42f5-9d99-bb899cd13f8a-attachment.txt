@@ -1,0 +1,4 @@
+Error: Key 'url' not found in the 'DEFAULT' section of the configuration file
+None
+Error: Key 'browser' not found in the 'DEFAULT' section of the configuration file
+Error: Key 'headless' not found in the 'DEFAULT' section of the configuration file

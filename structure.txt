@@ -1,0 +1,23 @@
+Automation_Framework/
+├── configs/
+│   └── config.ini
+├── logs/
+│   └── automation.log
+├── pages/
+│   ├── __init__.py
+│   └── LoginPage.py
+├── reports/
+├── tests/
+│   ├── __init__.py
+│   └── test_login.py
+├── utils/
+│   ├── __init__.py
+│   ├── common.py
+│   ├── config_parser.py
+│   └── logger.py
+├── .gitignore
+├── conftest.py
+├── pytest.ini
+├── README.md
+├── requirements.txt
+└── run_tests.sh

@@ -1,0 +1,5 @@
+[35mDEBUG   [0m utils.logger:test_login.py:43 This is a debug message
+[32mINFO    [0m utils.logger:test_login.py:46 This is an info message
+[33mWARNING [0m utils.logger:test_login.py:49 This is a warning message
+[31m[1mERROR   [0m utils.logger:test_login.py:52 This is an error message
+[31mCRITICAL[0m utils.logger:test_login.py:55 This is a critical message

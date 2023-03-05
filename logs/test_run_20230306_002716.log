@@ -1,0 +1,5 @@
+2023-03-06 00:27:37,188 [DEBUG] utils.logger: This is a debug message
+2023-03-06 00:27:37,188 [INFO] utils.logger: This is an info message
+2023-03-06 00:27:37,189 [WARNING] utils.logger: This is a warning message
+2023-03-06 00:27:37,189 [ERROR] utils.logger: This is an error message
+2023-03-06 00:27:37,189 [CRITICAL] utils.logger: This is a critical message
